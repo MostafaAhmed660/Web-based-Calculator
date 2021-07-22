@@ -24,7 +24,7 @@ has all main function needed to calculate results
 
 ## assumption
 <br/><br/>
-&nbsp&nbsp*you can only do one calculate per time as if you want to calculate “10+15+3”
+&nbsp;&nbsp;*you can only do one calculate per time as if you want to calculate “10+15+3”
 first you enter “10+15” if you press “+” it will automatically calculate 10+15 = 25 and on the display you will see “25+” not “10+15+” as shown below*
 <br/><br/><br/><br/>
 ![Capture](https://user-images.githubusercontent.com/59110598/126708112-8265d7ba-d20f-4fe8-a2e2-14cf6aa48a16.JPG)
